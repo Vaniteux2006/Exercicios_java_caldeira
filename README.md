@@ -3,7 +3,7 @@ Há aqui programas em Java criado durante o curso Geração Caldeira
 
 # Repositório "Exercícios Java (Caldeira)"
 
-Este repositório foi criado exclusivamente para armazenar exercícios de Java relacionados ao curso "Geração Caldeira". Ele não é um projeto ativo ou uma biblioteca de código, mas sim um espaço onde os exercícios do curso foram colocados e compartilhados para a Aula 1.
+Este repositório foi criado exclusivamente para armazenar exercícios de Java relacionados ao curso "Geração Caldeira". Ele não é um projeto ativo ou uma biblioteca de código, mas sim um espaço onde os exercícios do curso foram colocados e compartilhados para as aulas, como a Aula 1, Aula 2, Aula 3 e em diante.
 
 ## Conteúdo
 
